@@ -1,0 +1,1 @@
+Para correr este cliente, primero es necesario activar el VPN, y luego corremos el cliente, posteriormente el pedira al usuario la direccion IP a la cual desea conectarse, y le pedira su nombre de usuario, para proceder a ejecutar todo el protocolo
