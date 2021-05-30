@@ -25,7 +25,7 @@ try:
 	if(flag==3):
 		u = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 		u.bind(("",9876))
-		u.settimeout(15)
+		u.settimeout(20)
 		cod = ("givememsg 9876").encode("UTF-8")
 		s.send(cod)
 		data = s.recv(1024)
